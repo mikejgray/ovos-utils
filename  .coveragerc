@@ -1,0 +1,3 @@
+[run]
+include = */ovos_utils/*
+omit = *test*
